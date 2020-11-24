@@ -1,2 +1,2 @@
-# subscriptions
-Azure subscriptions model class containing Tags
+# subscription
+Azure subscription model class containing Tags
