@@ -19,7 +19,7 @@ package subscriptionapi
 
 import (
 	"context"
-	"github.com/Azure/azure-sdk-for-go/services/subscription/mgmt/2020-09-01/subscription"
+	"github.com/harshavmb/subscription"
 	"github.com/Azure/go-autorest/autorest"
 )
 
